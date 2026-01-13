@@ -66,6 +66,8 @@ The `0x1314...` pattern appears only in SKS tasks at crash time.
 - macOS 26.1 - 26.2
 - iPhone 11 Pro Max
 - iPhone 17 Pro Max
+- MacBook Pro (M2 Max)
+- MacBook Pro (M4 Max)
 
 ## Files
 
